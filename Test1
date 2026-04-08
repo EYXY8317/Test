@@ -8,3 +8,4 @@ if ran <= len(x):
 else:
     print("Try again")
     ran= input ("input a number: ")
+Ethan
