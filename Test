@@ -1,1 +1,4 @@
-print ("Hello World!")
+x= input("Choose a random number: ")
+
+if x>=5:
+    print ("Hello World!")
