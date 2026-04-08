@@ -1,0 +1,10 @@
+import random
+
+x= ["awesome", "fantastic", "enjoy", "faithful"]
+ran= int(input ("input a number: "))
+
+if ran <= len(x):
+    print(random.choice(x))
+else:
+    print("Try again")
+    ran= input ("input a number: ")
